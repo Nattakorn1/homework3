@@ -1,0 +1,28 @@
+
+
+
+.logo-header {
+    /* display: flex; */
+    width: auto;
+    height: 120px;
+    /* background-color: rgb(236, 65, 65); */
+    background-image: url(https://web.archive.org/web/20190204053130/https://www.swiftviews.com/auth-background.d98d7ff313fe2ec07d45.png);
+    
+}
+.logo{
+    display: flex;
+}
+/* .header{
+    text-align: right;
+} */
+.top-header{
+    /* background-color: rgb(236, 65, 65); */
+    width: auto;
+    height: 350px;
+    background-image: url(https://web.archive.org/web/20190204053130/https://www.swiftviews.com/auth-background.d98d7ff313fe2ec07d45.png);
+    color: white;
+}
+.main-content{
+    margin: 100px;
+    
+}

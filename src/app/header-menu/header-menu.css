@@ -1,0 +1,11 @@
+span {
+    margin: 0px 5px;
+    color: white;
+}
+button{
+    line-height: 20px;
+    /* font-size: 10px; */
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 5px;
+}

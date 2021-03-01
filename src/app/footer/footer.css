@@ -1,0 +1,21 @@
+
+.footer{
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+}
+.footers{
+    text-align: center;
+    border-radius: px;
+
+}
+/* .button { 
+    padding: 10px 15px; 
+}  */
+button{
+    
+    font-size: auto;
+    text-align: center;
+    border: 20px solid white;
+    border-radius: 5px;
+}

@@ -1,0 +1,16 @@
+.button{
+    text-align: left;
+    
+}
+.topcontent{
+    margin: auto;
+    padding: 10%;
+}
+button {
+    /* padding: 4; */
+    /* line-height: px; */
+    font-size: 15x;
+    text-align: center;
+    border: 20px solid white;
+    border-radius: 5px;
+}
